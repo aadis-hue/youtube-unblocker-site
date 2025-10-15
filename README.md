@@ -3,13 +3,13 @@ This is a YouTube Video Downloader Web Application built with Python Flask backe
 
 HOW TO RUN!!
 Install dependencies:
-pip install -r requirements.txt
+	pip install -r requirements.txt
 
 Run the application:
-python app.py
+	python app.py
 
 Open your browser to:
-http://localhost:5000
+	http://localhost:5000
 
 This can be run on your device, codespaces, servers, etc.
 
